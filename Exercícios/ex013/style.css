@@ -1,0 +1,16 @@
+body{
+    font-size: 12pt;
+    font-family: arial;
+    background-color: lightgoldenrodyellow;
+    color: chocolate;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
